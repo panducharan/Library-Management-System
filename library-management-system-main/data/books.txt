@@ -1,0 +1,6 @@
+B001,Java Programming,James Gosling,Programming,false,,,
+B002,Data Structures,Robert Lafore,Computer Science,false,,,
+B003,Clean Code,Robert Martin,Programming,false,,,
+B004,Design Patterns,Gang of Four,Software Engineering,false,,,
+B005,Algorithms,Thomas Cormen,Computer Science,false,,,
+21,12,12,1,false,,,

@@ -1,0 +1,4 @@
+MEMBER,M001,John Doe,john@email.com,123-456-7890,123 Main St,2025-09-18,Regular,
+MEMBER,M002,Jane Smith,jane@email.com,098-765-4321,456 Oak Ave,2025-09-18,Premium,
+MEMBER,M003,Bob Johnson,bob@email.com,555-123-4567,789 Pine Rd,2025-09-18,Student,
+MEMBER,M004,Sarah Wilson,sarah.wilson@email.com,555-987-6543,456 University Ave,2025-09-18,Premium,
